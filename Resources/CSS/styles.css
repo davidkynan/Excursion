@@ -1,0 +1,61 @@
+body {
+	background-color: black;
+}
+
+video {
+	text-align: center;
+}
+
+}
+img {
+	text-align: center;
+}
+
+h1 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;	
+	text-align: center;
+}
+
+h2 {
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 45px;
+	color: white;	
+	text-align: center;
+}
+
+h4 {
+	font-family: Verdana;
+	text-align: center;
+	color: gray;
+	font-size: 22px;
+	font-weight: normal;
+}
+
+a {
+	color: aquamarine;
+	font-family: Verdana;
+	font-size: 16px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+div {
+	text-align: center;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+#copyright {
+	font-family: Verdana;
+	text-align: right;
+	color: gray;
+	font-size: 22px;
+	font-weight: normal;
+}
